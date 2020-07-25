@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flow-club/build/static/css/main.413baa5e.chunk.css",
+    "main.js": "/flow-club/build/static/js/main.e6d831ac.chunk.js",
+    "main.js.map": "/flow-club/build/static/js/main.e6d831ac.chunk.js.map",
+    "runtime-main.js": "/flow-club/build/static/js/runtime-main.f9e1b530.js",
+    "runtime-main.js.map": "/flow-club/build/static/js/runtime-main.f9e1b530.js.map",
+    "static/js/2.956bf3ad.chunk.js": "/flow-club/build/static/js/2.956bf3ad.chunk.js",
+    "static/js/2.956bf3ad.chunk.js.map": "/flow-club/build/static/js/2.956bf3ad.chunk.js.map",
+    "index.html": "/flow-club/build/index.html",
+    "precache-manifest.8dfe7dcc120e5237f52ac81ce5f4e88f.js": "/flow-club/build/precache-manifest.8dfe7dcc120e5237f52ac81ce5f4e88f.js",
+    "service-worker.js": "/flow-club/build/service-worker.js",
+    "static/css/main.413baa5e.chunk.css.map": "/flow-club/build/static/css/main.413baa5e.chunk.css.map",
+    "static/js/2.956bf3ad.chunk.js.LICENSE.txt": "/flow-club/build/static/js/2.956bf3ad.chunk.js.LICENSE.txt",
+    "static/media/flow-logo-white-500px.png": "/flow-club/build/static/media/flow-logo-white-500px.98659857.png",
+    "static/media/insta.webp": "/flow-club/build/static/media/insta.99ceec0b.webp",
+    "static/media/youtube.webp": "/flow-club/build/static/media/youtube.3ef90e36.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e1b530.js",
+    "static/js/2.956bf3ad.chunk.js",
+    "static/css/main.413baa5e.chunk.css",
+    "static/js/main.e6d831ac.chunk.js"
+  ]
+}
